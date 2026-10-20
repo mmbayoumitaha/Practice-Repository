@@ -34,10 +34,10 @@ description enough?**
 is `origin` and which is `upstream`, and why does that distinction matter?**
 
 > ```
-> origin    https://github.com/mmbayoumitaha/Practice-Repository.git (fetch)
-> origin    https://github.com/mmbayoumitaha/Practice-Repository.git (push)
-> upstream  https://github.com/IbrahimYasserM/Practice-Repository.git (fetch)
-> upstream  https://github.com/IbrahimYasserM/Practice-Repository.git (push)
+> origin	git@github.com:mmbayoumitaha/Practice-Repository.git (fetch)
+> origin	git@github.com:mmbayoumitaha/Practice-Repository.git (push)
+> upstream	https://github.com/IbrahimYasserM/Practice-Repository.git (fetch)
+> upstream	https://github.com/IbrahimYasserM/Practice-Repository.git (push)
 > ```
 > `origin` is my own fork (mmbayoumitaha) which I cloned and can push to `upstream` is the original repo (IbrahimYasserM) which I only fetch from The distinction matters because I don't have push access to upstream: my branch goes to origin and I open a PR from origin into upstream's `main`Upstream is also where I got the `conflict-practice` branch from using `git fetch upstream`
 
