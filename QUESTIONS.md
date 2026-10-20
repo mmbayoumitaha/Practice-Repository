@@ -75,7 +75,7 @@ follow the convention from `CONTRIBUTING.md`?**
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-> PR link: (add after opening the PR) Commits: (add). Files changed: (add)
+> PR link: https://github.com/IbrahimYasserM/Practice-Repository/pull/31. The PR shows 6 commits and 2 files changed (`CONTRIBUTORS.md` and `QUESTIONS.md`).
 
 ---
 
@@ -93,4 +93,4 @@ you say?**
 > - `fork`: your own copy of someone else's repo on GitHub which you can change freely
 > - `clone`: downloading a repo to your computer so you can work on it locally
 > - `origin`: the default name Git gives to the remote you cloned from in my case my fork, where I push my branches
-> - `upstream`: the name I gave to the original repo I forked from where I fetch updates and other branches and which I send my PR to
+> - `upstream`: the name I gave to the original repo I forked from where I fetch updates and other branches and which I send my PR to   
